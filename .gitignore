@@ -1,0 +1,6 @@
+.*
+!.gitignore
+data
+image
+trained_models
+__pycache__
